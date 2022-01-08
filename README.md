@@ -1,2 +1,2 @@
 # Imersão Game Dev
- Jogo *Endless Runner* criado na Imersão da Alura, na semana do dia 22/06/2020.
+ *Endless Runner* game created in the 'Imersão da Alura', in the week of 2020/06/22.
